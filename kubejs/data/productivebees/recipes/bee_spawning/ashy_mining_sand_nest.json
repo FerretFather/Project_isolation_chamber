@@ -7,8 +7,5 @@
         {
             "bee": "productivebees:ashy_mining_bee"
         }
-    ],
-    "biomes": [
-        "desert"
     ]
 }

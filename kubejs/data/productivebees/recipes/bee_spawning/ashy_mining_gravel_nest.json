@@ -7,10 +7,6 @@
         {
             "bee": "productivebees:ashy_mining_bee"
         }
-    ],
-    "biomes": [
-        "river",
-        "beach"
-    ],
-    "temperature": "warm"
+    ]
 }
+ 

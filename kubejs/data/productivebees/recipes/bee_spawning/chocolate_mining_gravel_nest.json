@@ -7,10 +7,5 @@
         {
             "bee": "productivebees:chocolate_mining_bee"
         }
-    ],
-    "biomes": [
-        "river",
-        "beach"
-    ],
-    "temperature": "warm"
+    ]
 }

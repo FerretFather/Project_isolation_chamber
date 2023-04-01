@@ -7,10 +7,5 @@
         {
             "bee": "productivebees:digger_bee"
         }
-    ],
-    "biomes": [
-        "river",
-        "beach"
-    ],
-    "temperature": "warm"
+    ]
 }
