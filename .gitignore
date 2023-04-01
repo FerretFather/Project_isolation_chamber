@@ -15,6 +15,7 @@ rhino.local.properties
 /downloads
 /crash-reports
 /skyblock_exports
+/profileimage
 
 # Compiled class file
 *.class
