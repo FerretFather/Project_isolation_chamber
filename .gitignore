@@ -3,6 +3,19 @@
 /usercache.json
 /usernamecache.json
 /options.txt
+/.curseclient
+/rhino.local.properties
+
+
+# Specific Directory
+/saves/
+/screenshots/
+/mods/
+/logs/
+/downloads/
+/crash-reports/
+/skyblock_exports/
+
 # Compiled class file
 *.class
 
