@@ -27,7 +27,7 @@
   
     // Should all items be reset on first world join? [default: false]
     // This will delete all the items given on spawn from other mods guide books.
-    "clearInv": false,
+    "clearInv": true,
     
     // Should players' items be dropped when leaving a team? [default: true]
     "dropItems": true
@@ -132,7 +132,7 @@
   "Utility": {
   
     // Should players be able to create their own team? [default: false]
-    "createOwnTeam": false,
+    "createOwnTeam": true,
     
     // Should players be able to leave their team or invite others? [default: true]
     "selfManage": true,

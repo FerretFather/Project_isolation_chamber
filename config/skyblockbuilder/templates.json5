@@ -9,8 +9,14 @@
   //     "direction": "south",
   //     "offset": [ 0, 0 ]
   // }
-  "spawn": null,
-  
+  "spawn": {
+      "name": "Spawn",
+      "desc": "",
+      "file": "default.nbt",
+      "spawns": "default",
+      "direction": "south"
+    },
+
   "spawns": {
     "default": [
       [ 2, 0, 2 ]
@@ -21,13 +27,13 @@
   "templates": [
     {
       "name": "Isolation Chamber",
-      "file": "isolation_chamber.nbt",
+      "file": "the_chamber.nbt",
       "spawns": "default",
       "direction": "south"
-    }
-	{
-	"name": "Isolation Chamber",
-      "file": "default.nbt",
+    },
+{
+      "name": "Isolation Chamber 2",
+      "file": "isolation_chamber.nbt",
       "spawns": "default",
       "direction": "south"
     }

@@ -1,0 +1,4 @@
+#52B53D minecraft:air
+#F522F4 minecraft:chest
+#D954A9 compactmachines:machine_tiny
+#750F8F compactmachines:solid_wall
