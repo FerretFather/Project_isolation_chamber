@@ -1,10 +1,10 @@
 # specific files
-/minecraftinstance.json
-/usercache.json
-/usernamecache.json
-/options.txt
-/.curseclient
-/rhino.local.properties
+minecraftinstance.json
+usercache.json
+usernamecache.json
+options.txt
+.curseclient
+rhino.local.properties
 
 
 # Specific Directory
