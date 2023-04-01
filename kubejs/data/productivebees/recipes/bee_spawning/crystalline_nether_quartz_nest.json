@@ -1,0 +1,20 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:nether_quartz_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:crystalline"
+        }
+    ],
+    "biomes": [
+        "nether"
+    ],
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:crystalline"
+        }
+    ]
+}

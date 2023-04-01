@@ -1,0 +1,20 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:nether_brick_nest"
+    },
+    "results": [
+        {
+            "bee": "productivebees:magmatic"
+        }
+    ],
+    "biomes": [
+        "nether"
+    ],
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:magmatic"
+        }
+    ]
+}

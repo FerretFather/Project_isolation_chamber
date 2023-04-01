@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-03-31 20:23:44 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_large": {
+    "criteria": {
+      "claimed_machine": "2023-03-31 20:21:22 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_normal": {
+    "criteria": {
+      "claimed_machine": "2023-03-31 20:20:54 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_giant": {
+    "criteria": {
+      "claimed_machine": "2023-03-31 20:22:08 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_small": {
+    "criteria": {
+      "claimed_machine": "2023-03-31 20:19:58 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:how_did_you_get_here": {
+    "criteria": {
+      "got_stuck": "2023-03-31 20:14:07 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:got_shrinking_device": {
+    "criteria": {
+      "obtained_psd": "2023-03-31 20:19:18 -0400"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_max": {
+    "criteria": {
+      "claimed_machine": "2023-03-31 20:22:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-03-31 20:23:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-03-31 20:23:44 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
