@@ -25,5 +25,12 @@
       "spawns": "default",
       "direction": "south"
     }
+	{
+	"name": "Isolation Chamber",
+      "file": "default.nbt",
+      "spawns": "default",
+      "direction": "south"
+    }
+
   ]
 }

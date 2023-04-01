@@ -1,0 +1,8 @@
+#6F6 minecraft:badlands
+#556 minecraft:beach
+#008 minecraft:desert
+#614 minecraft:eroded_badlands
+#010 minecraft:forest
+#4F8 compactmachines:machine
+#5FF minecraft:river
+#67B minecraft:savanna
