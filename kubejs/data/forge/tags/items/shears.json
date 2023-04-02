@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+     "more_shears:wooden_shears",
+     "more_shears:netherite_shears",
+     "more_shears:golden_shears",
+     "more_shears:diamond_shears"
+  ]
+}

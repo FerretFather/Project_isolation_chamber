@@ -125,7 +125,7 @@
 		compass: true
 		
 		# Enable minimap
-		# Default: true
+		# Default: false
 		enabled: true
 		
 		# Show entities on minimap
@@ -138,7 +138,7 @@
 		
 		# Entities in minimap will be larger
 		# Default: false
-		large_entities: false
+		large_entities: true
 		
 		# Minimap will not rotate
 		# Default: true
@@ -176,7 +176,7 @@
 		
 		# Draw a square minimap instead of a circular one
 		# Default: false
-		square: false
+		square: true
 		
 		# Minimap visibility
 		# Default: 255

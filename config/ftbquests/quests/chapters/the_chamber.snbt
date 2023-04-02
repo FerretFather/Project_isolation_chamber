@@ -1,0 +1,49 @@
+{
+	id: "2CB4C17DD6B7B13A"
+	group: ""
+	order_index: 0
+	filename: "the_chamber"
+	title: "The Chamber"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: -3.5d
+		width: 10.826530612244898d
+		height: 1.0d
+		rotation: 0.0d
+		image: "packmenu:textures/gui/logo.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		subtitle: "So it begins"
+		description: [
+			"Welcome to the isolation chamber. Try not to go insain during your stay."
+			"{image:minecraft:item/campfire width:40 height:40 align:1}"
+		]
+		id: "153548BC31D8C167"
+		tasks: [{
+			id: "073567C5F2FEB5F5"
+			type: "checkmark"
+			title: "Welcome to the chamber."
+		}]
+		rewards: [
+			{
+				id: "70ADEF1EFEB8B30A"
+				type: "xp"
+				xp: 100
+			}
+			{
+				id: "655E38F225C09EBC"
+				type: "item"
+				item: "minecraft:apple"
+			}
+		]
+	}]
+	quest_links: [ ]
+}

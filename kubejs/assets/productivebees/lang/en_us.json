@@ -614,6 +614,9 @@
   "config.jade.plugin_productivebees.bee_attributes": "Attributes",
   "productivebees.top.jar.bee": "%s",
   
+  "productivebees.information.bee_tier1": "Tier 1",
+
+
   "//Custom_Bee_additions": "Area designated for custom bee additions.",
   
   "entity.productivebees.cow_bee": "Cow Bee ",
