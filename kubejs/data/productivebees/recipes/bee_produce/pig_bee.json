@@ -1,0 +1,42 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:pig",
+    "results": [
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "mysticalagriculture:pig_essence",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:pig"
+                    }
+                }
+                
+            },
+            "chance": 70
+        },
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "productivebees:configurable_honeycomb",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:pig"
+                    }
+                }
+            }
+        },
+        {
+            "item": {
+                "tag": "forge:pollen"
+            },
+            "chance": 5
+        }
+    ],
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:pig"
+        }
+    ]
+}

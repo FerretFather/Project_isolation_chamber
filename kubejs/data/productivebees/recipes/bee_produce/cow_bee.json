@@ -1,0 +1,42 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:cow",
+    "results": [
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "mysticalagriculture:cow_essence",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:cow"
+                    }
+                }
+                
+            },
+            "chance": 70
+        },
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "productivebees:configurable_honeycomb",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:cow"
+                    }
+                }
+            }
+        },
+        {
+            "item": {
+                "tag": "forge:pollen"
+            },
+            "chance": 5
+        }
+    ],
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:cow"
+        }
+    ]
+}

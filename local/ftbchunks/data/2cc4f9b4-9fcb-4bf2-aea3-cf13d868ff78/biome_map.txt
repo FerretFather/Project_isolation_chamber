@@ -1,0 +1,7 @@
+#4CA minecraft:dripstone_caves
+#3A0 minecraft:frozen_river
+#340 minecraft:snowy_taiga
+#4D3 minecraft:swamp
+#169 minecraft:taiga
+#152 minecraft:windswept_forest
+#4C3 minecraft:windswept_hills

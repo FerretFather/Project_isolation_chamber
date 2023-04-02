@@ -1,0 +1,44 @@
+{
+    "type": "compactcrafting:miniaturization",
+    "recipeSize": 3,
+    "layers": [
+      {
+        "type": "compactcrafting:filled",
+        "component": "C"
+      },
+        {
+        "type": "compactcrafting:mixed",
+        "pattern": [
+          ["C", "-", "C"],
+          ["-", "-", "-"],
+          ["C", "-", "C"]
+        ]
+      },
+       {
+        "type": "compactcrafting:filled",
+        "component": "C"
+      }
+    ],
+  
+    "catalyst": {
+      "id": "minecraft:redstone",
+      "Count": 1
+    },
+  
+    "components": {
+      "C": {
+        "type": "compactcrafting:block",
+        "block": "minecraft:honeycomb_block"
+      }
+  
+    
+    },
+  
+    "outputs": [
+      {
+        "id": "productivebees:spawn_egg_configurable_bee",
+        "tag":{"EntityTag":{"type":"productivebees:brown_cow"}},
+  "Count": 1
+      }
+    ]
+  }

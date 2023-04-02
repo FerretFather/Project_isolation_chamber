@@ -36,7 +36,13 @@
       "file": "isolation_chamber.nbt",
       "spawns": "default",
       "direction": "south"
+    },
+  
+{
+      "name": "The Machine",
+      "file": "the_machine.nbt",
+      "spawns": "default",
+      "direction": "south"
     }
-
   ]
 }

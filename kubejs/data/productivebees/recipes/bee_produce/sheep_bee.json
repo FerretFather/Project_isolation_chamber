@@ -1,0 +1,42 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:sheep",
+    "results": [
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "mysticalagriculture:sheep_essence",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:sheep"
+                    }
+                }
+                
+            },
+            "chance": 70
+        },
+        {
+            "item": {
+                "type": "forge:nbt",
+                "item": "productivebees:configurable_honeycomb",
+                "nbt": {
+                    "EntityTag": {
+                        "type": "productivebees:sheep"
+                    }
+                }
+            }
+        },
+        {
+            "item": {
+                "tag": "forge:pollen"
+            },
+            "chance": 5
+        }
+    ],
+    "conditions": [
+        {
+            "type": "productivebees:bee_exists",
+            "bee": "productivebees:sheep"
+        }
+    ]
+}

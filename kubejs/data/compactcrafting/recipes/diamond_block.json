@@ -49,8 +49,10 @@
 
   "outputs": [
     {
-      "id": "productivebees:spawn_egg_nomad_bee",
+      "id": "productivebees:spawn_egg_configurable_bee",
+            "tag":{"EntityTag":{"type":"productivebees:supremium"}},
       "Count": 1
     }
   ]
+
 }

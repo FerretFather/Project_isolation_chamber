@@ -1,5 +1,13 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "productivebees:guide": {
+      "viewedEntries": [
+        "productivebees:blocks/hive"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
