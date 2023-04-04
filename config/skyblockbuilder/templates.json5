@@ -12,35 +12,23 @@
   "spawn": {
       "name": "Spawn",
       "desc": "",
-      "file": "default.nbt",
+      "file": "spawn_island.nbt",
       "spawns": "default",
       "direction": "south"
     },
 
   "spawns": {
     "default": [
-      [ 2, 0, 2 ]
+      [ 8, 7, 2 ]
     ]
   },
   
   // The list of templates being available. The first entry is the default template.
   "templates": [
-    {
-      "name": "Isolation Chamber",
-      "file": "the_chamber.nbt",
-      "spawns": "default",
-      "direction": "south"
-    },
-{
-      "name": "Isolation Chamber 2",
-      "file": "isolation_chamber.nbt",
-      "spawns": "default",
-      "direction": "south"
-    },
   
 {
-      "name": "The Machine",
-      "file": "the_machine.nbt",
+      "name": "Isolation Chamber",
+      "file": "isolated_chamber.nbt",
       "spawns": "default",
       "direction": "south"
     }

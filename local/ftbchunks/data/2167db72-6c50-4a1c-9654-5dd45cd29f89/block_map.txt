@@ -1,0 +1,14 @@
+#52B53D minecraft:air
+#B152E8 minecraft:black_wool
+#87B36D minecraft:blue_wool
+#80497A minecraft:dirt
+#3F84B7 minecraft:grass_block
+#374556 minecraft:oak_sign
+#6A5197 minecraft:polished_andesite
+#5CDCB7 minecraft:polished_basalt
+#B267E8 minecraft:polished_blackstone
+#437566 minecraft:polished_granite
+#83B596 minecraft:red_wool
+#750F8F compactmachines:solid_wall
+#BC20FE minecraft:white_wool
+#97FF93 minecraft:yellow_wool
