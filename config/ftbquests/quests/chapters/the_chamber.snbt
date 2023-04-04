@@ -20,7 +20,7 @@
 	}]
 	quests: [{
 		x: 0.0d
-		y: 0.0d
+		y: -2.5d
 		subtitle: "So it begins"
 		description: [
 			"Welcome to the isolation chamber. Try not to go insain during your stay. The quets book is not needed to play this pack however, it can be used as a guide line if you get stuck. the rewards can help progress quicker through the pack is so desiered."

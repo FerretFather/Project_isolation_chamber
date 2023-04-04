@@ -1,0 +1,8 @@
+#2DC minecraft:deep_dark
+#010 minecraft:forest
+#508 minecraft:frozen_peaks
+#286 minecraft:grove
+#3DC minecraft:plains
+#5FF minecraft:river
+#51A minecraft:stony_shore
+#169 minecraft:taiga

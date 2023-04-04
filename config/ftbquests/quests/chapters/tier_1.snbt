@@ -6,14 +6,41 @@
 	title: "Tier 1"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 0.0d
+			y: 3.5d
+			width: 11.236994219653178d
+			height: 3.0d
+			rotation: 0.0d
+			image: "packmenu:textures/gui/tier1bee.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 0.0d
+			y: 7.5d
+			width: 8.0d
+			height: 8.0d
+			rotation: 0.0d
+			image: "productivebees:advancements/all_bees"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
 	quests: [
 		{
 			title: "What is with the bees"
 			icon: "minecraft:bee_nest"
 			x: 0.0d
 			y: 0.0d
-			shape: "rsquare"
+			shape: "heart"
 			subtitle: "who would have thought. bees would be your only friends in this isolated place."
+			size: 1.5d
 			progression_mode: "flexible"
 			id: "3DE60509903EC5CD"
 			tasks: [{
@@ -30,8 +57,8 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: 1.0d
+			x: -1.5d
+			y: 0.5d
 			shape: "diamond"
 			dependencies: ["3DE60509903EC5CD"]
 			id: "7BA4CE7ADC9D412C"
@@ -50,8 +77,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: 1.0d
+			x: -1.0d
+			y: 1.5d
 			shape: "diamond"
 			dependencies: ["3DE60509903EC5CD"]
 			progression_mode: "flexible"
@@ -76,8 +103,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: 1.0d
+			x: 1.5d
+			y: 0.5d
 			shape: "diamond"
 			dependencies: ["3DE60509903EC5CD"]
 			id: "40741779005F6EEC"
@@ -96,13 +123,10 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 2.0d
+			x: -2.5d
+			y: 1.0d
 			shape: "diamond"
-			dependencies: [
-				"7BA4CE7ADC9D412C"
-				"1F2E536D20B35ED6"
-			]
+			dependencies: ["7BA4CE7ADC9D412C"]
 			id: "4A8D3D44B6582EF5"
 			tasks: [{
 				id: "751F2A62FAD181C5"
@@ -119,13 +143,10 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 2.0d
+			x: 2.0d
+			y: -0.5d
 			shape: "diamond"
-			dependencies: [
-				"1F2E536D20B35ED6"
-				"40741779005F6EEC"
-			]
+			dependencies: ["40741779005F6EEC"]
 			id: "54A1A91E322E8CE5"
 			tasks: [{
 				id: "77FD827DB16D405C"
@@ -143,8 +164,8 @@
 		}
 		{
 			title: "A better hive"
-			x: 1.0d
-			y: 0.0d
+			x: -1.5d
+			y: -1.5d
 			shape: "hexagon"
 			dependencies: ["3DE60509903EC5CD"]
 			id: "7BDFE91A51B987CE"
@@ -157,8 +178,8 @@
 		{
 			title: "An even better bee hive"
 			icon: "productivebees:advanced_dark_oak_beehive"
-			x: 2.0d
-			y: 0.0d
+			x: -2.5d
+			y: -2.5d
 			shape: "hexagon"
 			dependencies: ["7BDFE91A51B987CE"]
 			progression_mode: "flexible"
@@ -182,8 +203,8 @@
 		{
 			title: "Who Knew!! we can fit so many bees in this thing"
 			icon: "productivebees:expansion_box_acacia"
-			x: 3.0d
-			y: 0.0d
+			x: -1.5d
+			y: -3.5d
 			shape: "hexagon"
 			dependencies: ["21FA282C04E955EC"]
 			id: "7A5E1BCBBFA77C2E"
@@ -201,8 +222,9 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 2.0d
+			x: 0.5d
+			y: 1.5d
+			shape: "diamond"
 			dependencies: ["3DE60509903EC5CD"]
 			id: "091272C0546A3A8F"
 			tasks: [{

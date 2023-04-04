@@ -1,0 +1,6 @@
+#2DC minecraft:deep_dark
+#3A0 minecraft:frozen_river
+#60C minecraft:old_growth_spruce_taiga
+#340 minecraft:snowy_taiga
+#51A minecraft:stony_shore
+#169 minecraft:taiga

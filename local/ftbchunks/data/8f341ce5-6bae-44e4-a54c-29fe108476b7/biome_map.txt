@@ -1,0 +1,7 @@
+#4F9 minecraft:dark_forest
+#2DC minecraft:deep_dark
+#674 minecraft:flower_forest
+#498 minecraft:lush_caves
+#1DF minecraft:old_growth_birch_forest
+#5FF minecraft:river
+#51A minecraft:stony_shore

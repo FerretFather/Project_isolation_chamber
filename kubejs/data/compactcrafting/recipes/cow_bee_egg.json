@@ -37,7 +37,7 @@
     "outputs": [
       {
         "id": "productivebees:spawn_egg_configurable_bee",
-        "tag":{"EntityTag":{"type":"productivebees:brown_cow"}},
+        "tag":{"EntityTag":{"type":"productivebees:cow"}},
   "Count": 1
       }
     ]

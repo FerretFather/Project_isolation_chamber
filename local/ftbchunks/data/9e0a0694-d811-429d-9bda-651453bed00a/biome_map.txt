@@ -1,0 +1,4 @@
+#6F6 minecraft:badlands
+#008 minecraft:desert
+#073 minecraft:mushroom_fields
+#5FF minecraft:river

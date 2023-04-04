@@ -1,0 +1,29 @@
+{
+    "type": "cucumber:shaped_no_mirror",
+    "conditions": [
+      {
+        "type": "mysticalagriculture:crop_enabled",
+        "crop": "mysticalagriculture:fire"
+      }
+    ],
+    "pattern": [
+      " E ",
+      "EBE",
+      " E "
+    ],
+    "key": {
+      "E": {
+        "item": "mysticalagriculture:water_essence"
+      },
+      "B": {
+        "item": "woodenbucket:wooden_bucket"
+      }
+    },
+  
+    "result": 
+      {
+      "item": "woodenbucket:wooden_bucket",
+      "nbt":{"Fluid":{"Amount":1000,"FluidName":"minecraft:water"}}
+      }
+  
+  }
