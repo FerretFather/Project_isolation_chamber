@@ -3,7 +3,8 @@
 	group: "0FDECB3767D8C1C8"
 	order_index: 0
 	filename: "tier_1"
-	title: "Tier 1"
+	title: "The Bees part 1"
+	subtitle: ["Start of a beeutiful journy"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
